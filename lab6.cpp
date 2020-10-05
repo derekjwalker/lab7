@@ -7,7 +7,7 @@
   the order of the array, create a smaller array, and then organizes the 
   employees in alphabetical order by last name, and displays their information 
  **************************/
-
+//This is to test the -m flag
 #include <iostream>
 #include <iomanip>
 #include <algorithm>
